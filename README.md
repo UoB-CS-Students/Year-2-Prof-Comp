@@ -1,7 +1,7 @@
 Professional Computing
 ======================
 
-Introduction
+Introduction  
 ------------
 This is a repository containing shared resources for the Professional Computing module at the University of Birmingham. 
 
